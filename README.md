@@ -4,8 +4,7 @@ RESTful microservices
 
 frontend <-> gateway <-> backend
 
-frontend serves html
-
+frontend serves html</br>
 frontend communicates with backend exclusively through gateway
 
 backend communicates with frontend exclusively through gateway
