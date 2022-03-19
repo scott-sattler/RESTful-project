@@ -8,7 +8,7 @@ frontend serves html</br>
 frontend communicates with backend exclusively through gateway
 
 backend stores files if necessary, does computation, etc.</br>
-backend currently includes a color_lookup service</br>
+backend is currently limited to a color_lookup service</br>
 backend communicates with frontend exclusively through gateway</br>
 
 gateway routes (planned functionality expansion)
