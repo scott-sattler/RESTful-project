@@ -59,5 +59,4 @@ df iterrows vs itertuples
 """
 
 ### FRONTEND ###
-# what is this?
 # https://flask.palletsprojects.com/en/2.0.x/patterns/fileuploads/
