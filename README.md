@@ -13,7 +13,7 @@ backend communicates with frontend exclusively through gateway</br>
 
 gateway routes (planned functionality expansion)
 
-# TO USE:
+~~# TO USE:
 run microservices/run_servers.bat</br>
 open webpage 127.0.0.1:5075/index.html</br>
-upload local image, pick color with mouse</br>
+upload local image, pick color with mouse</br>~~
