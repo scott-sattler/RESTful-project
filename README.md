@@ -15,6 +15,6 @@ gateway routes (planned functionality expansion)
 
 ## TO USE:
 run microservices/run_servers.bat</br>
--fix broken stuff</br>
+ - fix anything that broke</br>
 open webpage 127.0.0.1:5075/index.html</br>
 upload local image, pick color with mouse</br>
