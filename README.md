@@ -1,6 +1,5 @@
 
-# RESTful-project
-RESTful microservices
+# RESTful-Project (RESTful Microservices Project)
 
 frontend <-> gateway <-> backend
 
