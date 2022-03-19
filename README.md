@@ -13,7 +13,7 @@ backend currently includes a color_lookup service
 
 gateway routes (planned functionality expansion)
 
-## TO USE:
-* run microservices/run_servers.bat</br>
-* open webpage 127.0.0.1:5075/index.html</br>
-* upload local image, pick color with mouse</br>
+# TO USE:
+run microservices/run_servers.bat</br>
+open webpage 127.0.0.1:5075/index.html</br>
+upload local image, pick color with mouse</br>
