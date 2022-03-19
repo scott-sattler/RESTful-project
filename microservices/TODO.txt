@@ -1,0 +1,11 @@
+frontend is giving 302 and 304 responses.
+not sure if a problem
+
+ * Running on http://127.0.0.1:5075/ (Press CTRL+C to quit)
+127.0.0.1 - - [14/Mar/2022 03:09:59] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2022 03:10:04] "POST /index.html HTTP/1.1" 302 -
+127.0.0.1 - - [14/Mar/2022 03:10:04] "GET /color?ImageID=dog.jpg&Selection=None HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2022 03:10:04] "GET /static/temp/dog.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2022 03:10:06] "GET /id/dog.jpg?651,244 HTTP/1.1" 302 -
+127.0.0.1 - - [14/Mar/2022 03:10:06] "GET /color?ImageID=dog.jpg&Selection=Arsenic HTTP/1.1" 200 -
+127.0.0.1 - - [14/Mar/2022 03:10:06] "GET /static/temp/dog.jpg HTTP/1.1" 304 -

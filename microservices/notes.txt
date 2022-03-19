@@ -1,0 +1,63 @@
+### GATEWAY ###
+"""
+create and deploy an API
+you could deploy a Dash App to Heroku for free
+PostgreSQL or MySQL (use former)
+
+gage example flask
+https://github.com/gage-russell/GCTA-Python-Intro/blob/master/activities/SimpleDataTypes/SimpleDataTypesApi.py
+
+intro/flask:
+https://towardsdatascience.com/the-right-way-to-build-an-api-with-python-cd08ab285f8f
+
+serverless/lambda dynamoDB
+https://amlanscloud.com/deployflask/
+
+TODO: install packages to virtual env (venv) for lambda
+
+better structure -- how to use? what exactly for?
+    def __init__(self):
+        # ...
+    def get(self, id):
+        # ...
+
+maybe useful:
+https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+"""
+
+
+"""
+used resource? https://itnext.io/create-a-highly-scalable-image-processing-service-on-aws-lambda-and-api-gateway-in-10
+-minutes-7cbb2893a479
+good resource? https://www.outsystems.com/forums/discussion/32913/display-image-returned-by-api/#
+"""
+
+###  IMPORTANT LINKS FILE IN GATEWAY ###
+"""
+https://www.dafont.com/federal-service.font?text=3e&psize=l
+
+yaml info
+https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/
+
+drag drop simple nice looking
+https://blog.miguelgrinberg.com/post/handling-file-uploads-with-flask
+"""
+
+
+
+### COLOR_LOOKUP ###
+"""
+Notes:
+https://stackoverflow.com/a/55557758
+
+comments discuss auto vectorization
+    https://stackoverflow.com/a/1422181
+    are pd dataframe operations auto-vectorized?
+    
+df iterrows vs itertuples
+    itertuples faster?
+"""
+
+### FRONTEND ###
+# what is this?
+# https://flask.palletsprojects.com/en/2.0.x/patterns/fileuploads/
